@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @thildathemis
-- 👀 I’m interested in codding.
-- 🌱 I’m currently learning pyhton ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on tugcettuncay@gmail.com
 
 <!---
